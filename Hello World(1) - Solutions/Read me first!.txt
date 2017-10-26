@@ -1,0 +1,4 @@
+When you try to open the files some may open and close instantly or close before you see the output.
+To prevent this you can add input() at the end of your file so it won't close itself until you enter something.
+In order to see the code, you can install sublimetext and open the files with it or any other text editor(ex: notepad).
+I recommend using sublimetext because it highlights everything and code becomes a lot readable.
